@@ -1,0 +1,10 @@
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Rodrigo','111.222.333-99',4500.0,TIMESTAMP WITH TIME ZONE '1990-07-14T10:00:00Z',2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Joao','111.222.333-99',1500.0,TIMESTAMP WITH TIME ZONE '1981-07-15T10:00:00Z',1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Maria','111.222.333-99',3500.0,TIMESTAMP WITH TIME ZONE '1964-07-19T10:00:00Z',2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Thais','111.222.333-99',3500.0,TIMESTAMP WITH TIME ZONE '1995-07-23T10:00:00Z',3);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Liam','111.222.333-99',3300.0,TIMESTAMP WITH TIME ZONE '2017-07-30T10:00:00Z',2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Chico','111.222.333-99',4500.0,TIMESTAMP WITH TIME ZONE '2001-07-13T10:00:00Z',1);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Buarque','111.222.333-99',4500.0,TIMESTAMP WITH TIME ZONE '2003-01-14T10:00:00Z',2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Hollanda','111.222.333-99',1900.0,TIMESTAMP WITH TIME ZONE '2000-02-14T10:00:00Z',2);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Jervis','111.222.333-99',2500.0,TIMESTAMP WITH TIME ZONE '2016-09-14T10:00:00Z',4);
+INSERT INTO tb_client(name, cpf, income, birth_Date, children) VALUES('Jimny','111.222.333-99',2300.0,TIMESTAMP WITH TIME ZONE '2015-10-14T10:00:00Z',2);
